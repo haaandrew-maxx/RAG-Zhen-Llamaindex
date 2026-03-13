@@ -163,3 +163,5 @@ description.txt
 .DS_Store
 .files
 storage/
+
+data/
